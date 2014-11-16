@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.3)  24 OCT 2014 16:31
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.3)  16 NOV 2014 06:39
 entering extended mode
 **StoryOfRatsPaper.tex
 
@@ -162,36 +162,280 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 48.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
  [1
 
 {C:/Users/MKDramdahl/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+
+<RatVariations.pdf, id=7, 560.0925pt x 252.945pt>
+File: RatVariations.pdf Graphic file (type pdf)
+ <use RatVariations.pdf>
+Package pdftex.def Info: RatVariations.pdf used on input line 79.
+(pdftex.def)             Requested size: 433.62pt x 151.07526pt.
+
+[2] [3 <C:/Users/MKDramdahl/Documents/University of Minnesota, Morris/Honors Ca
+pstone/Story of Rats/RatVariations.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 100.
+ [4] [5]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [6]
+<WorldMap.pdf, id=35, 508.7808pt x 289.08pt>
+File: WorldMap.pdf Graphic file (type pdf)
+ <use WorldMap.pdf>
+Package pdftex.def Info: WorldMap.pdf used on input line 138.
+(pdftex.def)             Requested size: 433.62pt x 197.10896pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 148.
+ [7] [8 <C:/Users/MKDramdahl/Documents/University of Minnesota, Morris/Honors C
+apstone/Story of Rats/WorldMap.pdf>] [9] [10] [11] [12] [13] [14] [15] [16] [17
+] [18] [19]
 ("C:\Users\MKDramdahl\Documents\University of Minnesota, Morris\Honors Capstone
 \Story of Rats\StoryOfRatsPaper.bbl"
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+[]\OT1/ptm/m/n/12 Gambian Pouched Rat. (2014, June 25). Re-trieved from
+ []
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+! Misplaced alignment tab character &.
+l.29   Impact On Them}. Sydney: Allen &
+                                        Unwin.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-) [3]
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
+[]\OT1/ptm/m/n/12 O'Neill, S. (n.d.). Scur-ry-ing Along-side Hu-man-ity: A Co-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
+\OT1/ptm/m/n/12 Evolutionary His-tory of Rats and Hu-mans. Re-trieved from
+ []
+
+
+Overfull \hbox (36.81728pt too wide) in paragraph at lines 32--35
+\OT1/ptm/m/it/12 http://historymatters.appstate.edu/sites/historymatters.appsta
+te.edu/files/ratsandhumans.pdf\OT1/ptm/m/n/12 . 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.52 ....ensembl.org/Rattus_norvegicus/Info/Index}
+                                                  .
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 52.
+! Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.52 ....ensembl.org/Rattus_norvegicus/Info/Index}
+                                                  .
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.53 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.53 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+[]\OT1/ptm/m/n/12 Rat: Rat-tus Norvegi-cus. (2014, Oc-to-ber). Re-trieved from
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.65 ...ttp://www.amcharts.com/visited_countries/}
+                                                  .
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.65 ...ttp://www.amcharts.com/visited_countries/}
+                                                  .
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.66 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.66 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Misplaced alignment tab character &.
+l.72 Marrin, A., &
+                   Mordan, C. B. (2006). \textit{Oh, Rats!: The Story of Rat...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[20]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.105 ...regret-bad-choices-humans_n_5473228.html}
+                                                  .
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Double subscript.
+<argument> ...09/rats-regret-bad-choices-humans_n_
+                                                  5473228.html
+l.105 ...regret-bad-choices-humans_n_5473228.html}
+                                                  .
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.105 ...regret-bad-choices-humans_n_5473228.html}
+                                                  .
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.106 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.106 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 ...the-rat/2011/12/08/gIQAAx0jfO_story.html}
+                                                  .
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.109 ...the-rat/2011/12/08/gIQAAx0jfO_story.html}
+                                                  .
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.110 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.110 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 108--110
+[]\OT1/ptm/m/n/12 Brown, D. (2011, De-cem-ber 8). A New Model of Em-pa-thy: The
+ Rat. Re-
+ []
+
+) [21]
 ("C:\Users\MKDramdahl\Documents\University of Minnesota, Morris\Honors Capstone
 \Story of Rats\StoryOfRatsPaper.aux") ) 
 Here is how much of TeX's memory you used:
- 2565 strings out of 493906
- 39426 string characters out of 3148061
- 97356 words of memory out of 3000000
- 5869 multiletter control sequences out of 15000+200000
- 16576 words of font info for 33 fonts, out of 3000000 for 9000
+ 2649 strings out of 493906
+ 40512 string characters out of 3148061
+ 99356 words of memory out of 3000000
+ 5941 multiletter control sequences out of 15000+200000
+ 22324 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 35i,6n,38p,710b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,7n,38p,1371b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips
-/fontname/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/
-Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on StoryOfRatsPaper.pdf (3 pages, 35054 bytes).
+/fontname/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type
+1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pf
+b><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on StoryOfRatsPaper.pdf (21 pages, 407967 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 121 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

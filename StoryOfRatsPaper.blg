@@ -1,5 +1,97 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: StoryOfRatsPaper.aux
 The style file: acm.bst
-I found no \citation commands---while reading file StoryOfRatsPaper.aux
 Database file #1: StoryOfRatsBibliography.bib
-(There was 1 error message)
+Warning--entry type for "Brown2011" isn't style-file defined
+--line 11 of file StoryOfRatsBibliography.bib
+Warning--entry type for "Hanson2012" isn't style-file defined
+--line 43 of file StoryOfRatsBibliography.bib
+Warning--entry type for "Lewis2013" isn't style-file defined
+--line 48 of file StoryOfRatsBibliography.bib
+Warning--entry type for "Lewis2014" isn't style-file defined
+--line 53 of file StoryOfRatsBibliography.bib
+Warning--entry type for "ONeill" isn't style-file defined
+--line 73 of file StoryOfRatsBibliography.bib
+Warning--entry type for "Phoenix2005" isn't style-file defined
+--line 78 of file StoryOfRatsBibliography.bib
+Warning--entry type for "Spencer2012" isn't style-file defined
+--line 83 of file StoryOfRatsBibliography.bib
+Warning--entry type for "Zelnio2011" isn't style-file defined
+--line 98 of file StoryOfRatsBibliography.bib
+Warning--entry type for "APOPO" isn't style-file defined
+--line 108 of file StoryOfRatsBibliography.bib
+Warning--entry type for "Bible" isn't style-file defined
+--line 113 of file StoryOfRatsBibliography.bib
+Warning--entry type for "EncyclopediaBritannica2014" isn't style-file defined
+--line 118 of file StoryOfRatsBibliography.bib
+Warning--entry type for "Ensembl2014" isn't style-file defined
+--line 127 of file StoryOfRatsBibliography.bib
+Warning--entry type for "RatGenomeDatabase" isn't style-file defined
+--line 132 of file StoryOfRatsBibliography.bib
+Warning--entry type for "CoevolutionDefinition2014" isn't style-file defined
+--line 137 of file StoryOfRatsBibliography.bib
+Warning--entry type for "BlackRatWikipedia2014" isn't style-file defined
+--line 147 of file StoryOfRatsBibliography.bib
+Warning--entry type for "BrownRatWikipedia2014" isn't style-file defined
+--line 152 of file StoryOfRatsBibliography.bib
+Warning--entry type for "GiantPouchedRatWikipedia2014" isn't style-file defined
+--line 157 of file StoryOfRatsBibliography.bib
+Warning--entry type for "RatWikipedia2014" isn't style-file defined
+--line 162 of file StoryOfRatsBibliography.bib
+Warning--entry type for "VisitedCountries2014" isn't style-file defined
+--line 167 of file StoryOfRatsBibliography.bib
+Warning--to sort, need author or key in Hanson2012
+Warning--to sort, need author or key in EncyclopediaBritannica2014
+Warning--to sort, need author or key in RatWikipedia2014
+Warning--to sort, need author or key in BrownRatWikipedia2014
+Warning--to sort, need author or key in BlackRatWikipedia2014
+Warning--to sort, need author or key in GiantPouchedRatWikipedia2014
+Warning--to sort, need author, editor, or key in Barnett1975
+Warning--to sort, need author, editor, or key in Barnett2001
+Warning--to sort, need author or key in ONeill
+Warning--to sort, need author or key in Zelnio2011
+Warning--to sort, need author or key in APOPO
+Warning--to sort, need author or key in RatGenomeDatabase
+Warning--to sort, need author or key in Ensembl2014
+Warning--to sort, need author or key in Spencer2012
+Warning--to sort, need author or key in CoevolutionDefinition2014
+Warning--to sort, need author or key in VisitedCountries2014
+Warning--to sort, need author or key in Bible
+Warning--to sort, need author, editor, or key in Marrin2006
+Warning--to sort, need author, editor, or key in Edelman2005
+Warning--to sort, need author or key in Edelman2002
+Warning--to sort, need author, editor, or key in Gottfried1983
+Warning--to sort, need author or key in Phoenix2005
+Warning--to sort, need author, editor, or key in Milton2005
+Warning--to sort, need author or key in Lewis2013
+Warning--to sort, need author or key in Lewis2014
+Warning--to sort, need author or key in Brown2011
+Warning--empty author and editor in Barnett1975
+Warning--empty title in Barnett1975
+Warning--empty publisher in Barnett1975
+Warning--empty year in Barnett1975
+Warning--empty author and editor in Barnett2001
+Warning--empty title in Barnett2001
+Warning--empty publisher in Barnett2001
+Warning--empty year in Barnett2001
+Warning--empty author and editor in Marrin2006
+Warning--empty title in Marrin2006
+Warning--empty publisher in Marrin2006
+Warning--empty year in Marrin2006
+Warning--empty author and editor in Edelman2005
+Warning--empty title in Edelman2005
+Warning--empty publisher in Edelman2005
+Warning--empty year in Edelman2005
+Warning--empty chapter and pages in Edelman2005
+Warning--empty author in Edelman2002
+Warning--empty title in Edelman2002
+Warning--empty journal in Edelman2002
+Warning--empty author and editor in Gottfried1983
+Warning--empty title in Gottfried1983
+Warning--empty publisher in Gottfried1983
+Warning--empty year in Gottfried1983
+Warning--empty author and editor in Milton2005
+Warning--empty title in Milton2005
+Warning--empty publisher in Milton2005
+Warning--empty year in Milton2005
+Warning--empty chapter and pages in Milton2005
+(There were 74 warnings)
