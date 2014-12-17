@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {2}{Definitions}{4}{0}{1}
+\beamer@subsectionintoc {2}{1}{Rat and Human}{5}{0}{1}
+\beamer@subsectionintoc {2}{2}{Co-Evolution}{6}{0}{1}
+\beamer@subsectionintoc {2}{3}{Adaptation}{7}{0}{1}
+\beamer@sectionintoc {3}{Topics}{8}{0}{2}
+\beamer@subsectionintoc {3}{1}{Taxonomy}{9}{0}{2}
+\beamer@subsectionintoc {3}{2}{History}{10}{0}{2}
+\beamer@subsectionintoc {3}{3}{Current Cultural Identities of the Rat}{11}{0}{2}
+\beamer@subsectionintoc {3}{4}{Case Study}{12}{0}{2}
+\beamer@sectionintoc {4}{Conclusions}{13}{0}{3}
